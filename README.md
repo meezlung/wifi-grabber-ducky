@@ -7,7 +7,7 @@ USB rubber ducky that grabs saved wifi password from pc and sends into a webhook
 
 ## Usage
  1. Go to [Webhook Site](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://webhook.site/&ved=2ahUKEwiK_6b4y5GFAxURyzgGHd0CDaAQFnoECAcQAQ&usg=AOvVaw1m2b3mmqgLIDfWa5YwqIcy).
- 2. Copy the *Unique URL*.
+ 2. Copy your *unique URL*.
     
     ![image](https://github.com/meezlung/wifi-grabber-ducky/assets/65329581/ed3473b1-9af0-492e-96c8-1e8847e36edd)
     
