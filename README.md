@@ -22,3 +22,6 @@ USB rubber ducky that grabs saved wifi password from pc and sends into a webhook
 
 ## Demo
 ![wifi-key-grabber-demo](https://github.com/meezlung/wifi-grabber-ducky/assets/65329581/26b95e26-6afd-4644-bdf3-ad73d0abc26b)
+
+## Note:
+If ever you're going to use it again, make sure to repeat the steps again, as webhook URLs tend to reset after some time.
