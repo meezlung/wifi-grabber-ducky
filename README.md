@@ -1,5 +1,5 @@
 # wifi-grabber-ducky
-USB rubber ducky that grabs saved wifi password from pc and sends into a webhook site. This is inspired from Cyber Mentor's [video](https://www.youtube.com/watch?v=uH-4btjE56E&t=248s).
+USB rubber ducky that grabs saved wifi password from pc and sends into a webhook site. This is highly inspired from Cyber Mentor's [video](https://www.youtube.com/watch?v=uH-4btjE56E&t=248s).
 
 ## Requirements
  - [Digispark USB Development Board Attiny85](https://circuit.rocks/products/digispark-usb-development-board-attiny85)
